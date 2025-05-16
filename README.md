@@ -2,7 +2,7 @@
 
 A Next.js application that demonstrates how to use Anthropic's Claude AI with the AI SDK to create a recipe assistant that answers questions based only on custom vegan black bean recipe data.
 
-![Claude AI Recipe Assistant](https://v0-claude-api-integration-eight.vercel.app/)
+[Claude AI Recipe Assistant](https://v0-claude-api-integration-eight.vercel.app/)
 
 ## Overview
 
